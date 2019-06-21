@@ -1,5 +1,6 @@
 /**
- * 
+ * Cuando el usuario introduce su propia cadena de caracteres la convertimos 
+ * en una variable para que sea el objetivo a comparar caracteres.
  */
 function recuento(){
 	

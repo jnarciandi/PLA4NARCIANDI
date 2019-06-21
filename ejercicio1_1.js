@@ -1,5 +1,6 @@
 /**
- * 
+ * Para que el programa nos detecte cuantas A hay en la secuencia 
+ * ha de ir comparándo los caracteres uno a uno e ir sumando las coincidencias en una variable.
  */
 function recuento(){
 	

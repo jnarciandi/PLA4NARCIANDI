@@ -1,5 +1,8 @@
 /**
- * 
+ * He creado un vector con 10 elementos a 0. 
+ * Así, ante cada coincidencia puedo ir cambiando el parámetro 
+ * correspondiente de la linea. 
+ * Al final solo ha de decir las 10 respuestas.
  */
 function recuento(){
 	

@@ -1,5 +1,8 @@
 /**
- * 
+ * En este caso como buscamos la prosición de la primera A que aparezca en la cadena que nos 
+ * introduzca el usuario no hemos de buscar en toda la secuencia sino que nos detendremos ante 
+ * la primera coincidiencia. Aqui podemos aprovechar la misma variable para contar posiciones 
+ * y para dar la respuesta final.
  */
 function recuento(){
 	

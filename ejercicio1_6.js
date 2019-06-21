@@ -1,5 +1,7 @@
 /**
- * 
+ * Como queremos una lista de posiciones, 
+ * volvemos a extender la comparación de caracteres a toda la cadena 
+ * y vamos añadiendo a un vector todas las coincidencias.
  */
 function recuento(){
 	

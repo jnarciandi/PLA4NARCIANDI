@@ -1,5 +1,6 @@
 /**
- * 
+ * Para detectar la letra elegida por el usuario tan solo hemos de buscar 
+ * las coincidencias con la respuesta de la pregunta y actuar como en el ejercicio 1.
  */
 function recuento(){
 	

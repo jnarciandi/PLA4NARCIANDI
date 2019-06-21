@@ -1,5 +1,6 @@
 /**
- * 
+ * Añadimos el mensaje de error cuando detecte un carácter entre 0 y 9. 
+ * El programa lo comprobará en cada caracter mientras hace el trabajo principal del programa.
  */
 function recuento(){
 	

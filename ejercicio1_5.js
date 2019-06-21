@@ -1,5 +1,6 @@
 /**
- * 
+ * Al permitir que el usuario elija también qué letra se ha de buscar 
+ * simplemente tenemos que sustituit A por la respuesta que nos de el usuario.
  */
 function recuento(){
 	
