@@ -1,5 +1,7 @@
 /**
- * 
+ * Sobre una matriz marcada en elementos de un vector he hecho unos contadores de fila 
+ * y posición de la matriz para escoger exclusivamente los elementos que nos interesan 
+ * e ir reconociendo si son positivos o ceros.
  */
 // prueba para git
 function suma(){

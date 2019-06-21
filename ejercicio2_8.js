@@ -1,5 +1,7 @@
 /**
- * 
+ * Sobre la misma matriz del ejercicio 7 sumo los elementos de cada columna 
+ * y divido entre el tamaño de la matriz para obtener la media aritmética.
+ * La añado en una lista "Vector resultado" solo por seguir el enunciado del ejercicio.
  */
 
 function suma(){

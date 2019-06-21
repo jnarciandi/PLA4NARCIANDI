@@ -1,5 +1,6 @@
 /**
- * 
+ * Creo el vector-matriz a partir de la pregunta creando números random.
+ * Esta vez estoy obligado a usar la formula "tamaño de matriz+1" para escoger los elementos.
  */
 
 function suma(){

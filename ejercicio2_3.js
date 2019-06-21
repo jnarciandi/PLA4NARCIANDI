@@ -1,5 +1,6 @@
 /**
- * 
+ * Se crean las 5 listas en vectores con los valores deseados (en mi caso he repetido 5 veces el número de la propia lista). 
+ * Como tenemos definido todos los parámetros sencillamente hacemos la suma de los componentes que queríamos.
  */
 function suma(){
 	var lista1 = [1,1,1,1,1];
